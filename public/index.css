@@ -2,7 +2,7 @@ body {
     font-family: "Ubuntu";
     font-size: "25px";
     text-align: center;
-    background-color: #1c9a54;
+    background-color: #0404e0;
     background-repeat: no-repeat;
     background-size: cover
 }
@@ -11,7 +11,7 @@ body {
     margin-top: 10%;
     font-family: "Ubuntu";
     font-size: "50px";
-    color: #FFF;
+    color: #000000;
 }
 
 .container p {
@@ -49,8 +49,8 @@ body {
 }
 
 #btn:hover {
-    background: #0066ff;
-    color: #fff;
+    background: #1d1357;
+    color: #000000;
     background-repeat: no-repeat;
 }
 
